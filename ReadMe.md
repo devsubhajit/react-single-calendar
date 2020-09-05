@@ -93,9 +93,9 @@ These fields are added, for the range:
 Here is the demo video link:
 https://www.youtube.com/watch?v=61hOnfyPL7U&t=27s
 
-## **Using Date Range Video**
+<!-- ## **Using Date Range Video**
 How to use date range:
-https://www.youtube.com/watch?v=61hOnfyPL7U&t=27s
+https://www.youtube.com/watch?v=61hOnfyPL7U&t=27s -->
 
 ## **Raise an Issue**
 If you are facing any issue regarding installation and usage, raise your issue in **Git repo**. 

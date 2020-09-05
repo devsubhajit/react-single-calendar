@@ -36,7 +36,7 @@ In this **date** useState you will get the **selectedDate**, **selectedDate** is
 *Single Calendar doesn't come with any pre-defined button, so you can open or close this component on a freedom of your own button click function*
 
 
-## **Getting Date Range **
+## **Getting Date Range**
 For getting date range, add a on for **< SingleCalendar />**, named as **range={true}**, by default **range** is false.
 
 *When using* **range**, *this* **filterDate** *method returns an array of to strings*

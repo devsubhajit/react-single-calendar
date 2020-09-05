@@ -1,6 +1,6 @@
 {
     "name": "react-single-calendar",
-    "version": "1.0.8",
+    "version": "1.1.8",
     "description": "",
     "main": "./lib/SingleCalendar.js",
     "license": "MIT",

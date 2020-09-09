@@ -60,6 +60,18 @@ In this example it the **date** variable will return:
 Example: **['March 21, 2019', 'August 10, 2019']**
 
 Again you can use **Date.parse()** method, to gate a date value, or you can use this strings in your way.
+## **Disable Future Dates**
+**react-single-calendar** has a feature to disable *upcoming* dates.
+For that you need to add **upcoming** as a prop and set the value to **false**. By default it is set to **true**.
+
+```
+<SingleCalendar selectedDate={filterDate} upcoming={false}/> 
+```
+You can use this feature with date range also, see the below code:
+
+```
+<SingleCalendar selectedDate={filterDate} range={true} upcoming={false}/>
+```
 
 ## **Theming:** 
 On your css/ scss add this variables.
@@ -91,11 +103,11 @@ These fields are added, for the range:
 ```
 ## **Implementation Video**
 Here is the demo video link:
-https://www.youtube.com/watch?v=61hOnfyPL7U&t=27s
+https://www.youtube.com/watch?v=61hOnfyPL7U&t
 
-<!-- ## **Using Date Range Video**
+## **Using Date Range Video**
 How to use date range:
-https://www.youtube.com/watch?v=61hOnfyPL7U&t=27s -->
+https://www.youtube.com/watch?v=S3T8hCNEZXM
 
 ## **Raise an Issue**
 If you are facing any issue regarding installation and usage, raise your issue in **Git repo**. 
